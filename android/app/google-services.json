@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711040681693",
+    "project_id": "flexfi-dd704",
+    "storage_bucket": "flexfi-dd704.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711040681693:android:ec2dfba701e6d69a9f7d34",
+        "android_client_info": {
+          "package_name": "com.example.again"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7dotENqQOkFc-16Gv_bpCKDipsFBMvz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
